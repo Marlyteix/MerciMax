@@ -1,0 +1,41 @@
+<!doctype html>
+ 
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>My OpenLayers 3 Map</title>
+  <!-- Fetch OpenLayers code from cdnjs.com -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/openlayers/4.6.5/ol-debug.js" type="text/javascript"></script>
+  <style>
+    .map {
+      height: 500px;
+      width: 700px;
+    }
+  </style>
+</head>
+ 
+<body>
+  <div id="map" class="map"></div>
+ 
+  <script type='text/javascript'>
+ 
+    var map = new ol.Map({ });
+ 
+    map.setTarget('map');
+ 
+    var view = new ol.View({
+      center: [0, 0],
+      zoom: 1
+    })
+    map.setView(view);
+ 
+    var tile_layer = new ol.layer.Tile({
+      source: new ol.source.OSM({layer: 'osm'})
+    })
+    map.addLayer(tile_layer);
+ 
+    map.getView().setZoom(2);
+ 
+  </script>
+</body>
+</html>

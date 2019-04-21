@@ -1,0 +1,1669 @@
+{
+  "Quai Ledru Rollin, 03100 Montluçon": {
+    "lat": 46.3456181,
+    "lng": 2.6007374
+  },
+  "Route de Montluçon, 36330 Le Poinçonnet": {
+    "lat": 46.7913522,
+    "lng": 1.7343476
+  },
+  "65 Avenue des Martyrs, 03410 Domérat": {
+    "lat": 46.3392371,
+    "lng": 2.568303
+  },
+  "25 Place de Jaude, 63000 Clermont-Ferrand": {
+    "lat": 45.7748994,
+    "lng": 3.0834344
+  },
+  "Centre Commercial Auchan Les 3 Fontaines,
+  Avenue Pierre Mendès France, 45140 Saint-Jean-de-la-Ruelle": {
+    "lat": 47.9042804,
+    "lng": 1.8608638
+  },
+  "Rue Pierre Mendès France, 44230 Saint-Sébastien-sur-Loire": {
+    "lat": 47.1908521,
+    "lng": -1.4926085
+  },
+  "30 Rue des Buissons, 95700 Roissy-en-France": {
+    "lat": 48.992204,
+    "lng": 2.5217527
+  },
+  "Centre commercial AUCHAN, Avenue Jean Moulin, 86100 Châtellerault": {
+    "lat": 46.7979066,
+    "lng": 0.5295352
+  },
+  "910 Route Nationale 20, 86360 Chasseneuil-du-Poitou": {
+    "lat": 46.6654127,
+    "lng": 0.3695442
+  },
+  "Centre Commercial Carrefour Nîmes Sud,
+  1755 Avenue Pierre Mendès France, 30000 Nîmes": {
+    "lat": 43.8185766,
+    "lng": 4.3921098
+  },
+  "Centre Commercial Riom Sud Carrefour, Route de Clermont, 63200 Ménétrol": {
+    "lat": 45.8766469,
+    "lng": 3.1180788
+  },
+  "26 Avenue de l'Europe, 63370 Lempdes": {
+    "lat": 45.7781753,
+    "lng": 3.1978448
+  },
+  "39 BIS Avenue Garibaldi, 87000 Limoges": {
+    "lat": 45.8364362,
+    "lng": 1.2594582
+  },
+  "Boulevard Saint-Jean, 63100 Clermont-Ferrand": {
+    "lat": 45.7835932,
+    "lng": 3.1200648
+  },
+  "36 Rue du Consulat, 87000 Limoges": {
+    "lat": 45.829685,
+    "lng": 1.258259
+  },
+  "Chaussée de Chappe, 18000 Bourges": {
+    "lat": 47.0924442,
+    "lng": 2.4198064
+  },
+  "14 Rue Georges Briquet, 87100 Limoges": {
+    "lat": 45.84120100000001,
+    "lng": 1.23274
+  },
+  "Centre Commercial Aubière Plein Sud, Route d'Issoire, 63170 Aubière": {
+    "lat": 45.7535596,
+    "lng": 3.1276368
+  },
+  "11 Fbg de France, 90000 Belfort": {
+    "lat": 47.63689919999999,
+    "lng": 6.856775
+  },
+  "Centre Commercial Géant, Route de Paris, 79025 Niort": {
+    "lat": 46.3405109,
+    "lng": -0.3835633
+  },
+  "22 Rue Casimir Périer, 76600 Le Havre": {
+    "lat": 49.4952413,
+    "lng": 0.1117605
+  },
+  "7 Rue Victor Hugo, 69002 Lyon": {
+    "lat": 45.75604610000001,
+    "lng": 4.8311531
+  },
+  "51 Route de Fourchambault, 58180 Marzy": {
+    "lat": 46.9971939,
+    "lng": 3.1060172
+  },
+  "11 Rue du Vingt-Deux Novembre, 67000 Strasbourg": {
+    "lat": 48.5829221,
+    "lng": 7.742450400000001
+  },
+  "169 Route de Lyon, 03000 Moulins": {
+    "lat": 46.5396679,
+    "lng": 3.3432258
+  },
+  "Centre Commercial Chartres Lucé, Route du Mans, 28112 Lucé": {
+    "lat": 48.4353786,
+    "lng": 1.4450438
+  },
+  "Centre Commercial Geant, La Béraudière, 42150 La Ricamarie": {
+    "lat": 45.41114109999999,
+    "lng": 4.3745796
+  },
+  "Avenue de la France libre, 94000 Créteil": {
+    "lat": 48.7803815,
+    "lng": 2.4549884
+  },
+  "Centre Cial Centre Commercial Géant, 69400 Villefranche-sur-Saône": {
+    "lat": 45.9958712,
+    "lng": 4.7329208
+  },
+  "1401 Rue de la Gare, 01710 Thoiry": {
+    "lat": 46.2278229,
+    "lng": 5.9942155
+  },
+  "Zoning Industriel Teinchurier, Centre Commercial Carrefour,
+  19100 Brive-la-Gaillarde": {
+    "lat": 45.1455016,
+    "lng": 1.4831697
+  },
+  "64 Rue de Caumartin, 75009 Paris": {
+    "lat": 48.8753143,
+    "lng": 2.3286162
+  },
+  "137 Avenue Victor Hugo, 75116 Paris": {
+    "lat": 48.8673454,
+    "lng": 2.2802765
+  },
+  "4 Rue Dr Serres, 30100 Alès": {
+    "lat": 44.122554,
+    "lng": 4.0802182
+  },
+  "10 Chemin Petit, 69300 Caluire-et-Cuire": {
+    "lat": 45.8041706,
+    "lng": 4.857884299999999
+  },
+  "Centre commercial Carrefour,
+  136 Boulevard Irène Joliot Curie, 69200 Vénissieux": {
+    "lat": 45.7162537,
+    "lng": 4.8760427
+  },
+  "3bis Rue du Faubourg Saint-Antoine, 75011 Paris": {
+    "lat": 48.8532376,
+    "lng": 2.3706625
+  },
+  "Centre Cial Gâts de Coeur, 41350 Vineuil": {
+    "lat": 47.341304,
+    "lng": 1.259407
+  },
+  "2 Avenue de Lafayette, 86000 Poitiers": {
+    "lat": 46.5736182,
+    "lng": 0.3748141
+  },
+  "Centre Commercial Les Ulis 2, Avenue de l'Aubrac, 91140 Les Ulis": {
+    "lat": 48.6762904,
+    "lng": 2.1714987
+  },
+  "21 Chemin de l'Industrie, 74100 Etrembières": {
+    "lat": 46.1809999,
+    "lng": 6.2316031
+  },
+  "ZAC Batterses, 01700 Beynost": {
+    "lat": 45.8262206,
+    "lng": 4.9956837
+  },
+  "252 Avenue du 8 Mai 1945, 86000 Poitiers": {
+    "lat": 46.5515868,
+    "lng": 0.3009386
+  },
+  "30 Avenue d'Italie, 75013 Paris": {
+    "lat": 48.8285592,
+    "lng": 2.3550908
+  },
+  "27 Avenue de la Division Leclerc, 92160 Antony": {
+    "lat": 48.7518732,
+    "lng": 2.3046988
+  },
+  "1 Avenue Niel, 75017 Paris": {
+    "lat": 48.879065,
+    "lng": 2.2942442
+  },
+  "Centre Commercial La Feuilleraie,
+  Avenue de l'Automobile, 24750 Trélissac": {
+    "lat": 45.19092759999999,
+    "lng": 0.7624930999999999
+  },
+  "Centre commercial Aushopping Blois Vineuil,
+  99 Rue Pierre Gilles de Gennes, 41350 Vineuil": {
+    "lat": 47.5726765,
+    "lng": 1.3744598
+  },
+  "Avenue Louis Suder, 24430 Marsac-sur-l'Isle": {
+    "lat": 45.1924685,
+    "lng": 0.6587784999999999
+  },
+  "PK3 La Galerie, 134 Rue de la Girardière, 49300 Cholet": {
+    "lat": 47.041541,
+    "lng": -0.9023165999999999
+  },
+  "262 Rue de l'Auvent, 16430 Champniers": {
+    "lat": 45.69350740000001,
+    "lng": 0.1832505
+  },
+  "Centre Cial Auchan, 37172 Chambray-lès-Tours": {
+    "lat": 47.3385244,
+    "lng": 0.7008237
+  },
+  "Centre Commercial des 4 Pavillons, 33310 Lormont": {
+    "lat": 44.8657811,
+    "lng": -0.5155791
+  },
+  "Centre Commercial Les Atlantes,
+  Avenue Jacques Duclos, 37700 Saint-Pierre-des-Corps": {
+    "lat": 47.3802963,
+    "lng": 0.7169979
+  },
+  "Centre commercial Les 3 Fontaines, 16 Rue Traversière, 95000 Cergy": {
+    "lat": 49.0380562,
+    "lng": 2.080348
+  },
+  "47 Rue René Goscinny, 16000 Angoulême": {
+    "lat": 45.6483291,
+    "lng": 0.1639405
+  },
+  "14 Route de Paris, 44300 Nantes": {
+    "lat": 47.2494359,
+    "lng": -1.5153442
+  },
+  "Chemin des Minimes, 37520 La Riche": {
+    "lat": 47.3787815,
+    "lng": 0.6568041
+  },
+  "2 Route de Bordeaux, 16400 La Couronne": {
+    "lat": 45.6184629,
+    "lng": 0.1035324
+  },
+  "Centre commercial AUCHAN,
+  247 Boulevard Charles de Gaulle, 37540 Saint-Cyr-sur-Loire": {
+    "lat": 47.4256204,
+    "lng": 0.6574801
+  },
+  "2 Rue Pierre Lescot, 75001 Paris": {
+    "lat": 48.86188869999999,
+    "lng": 2.3473911
+  },
+  "126 Rue de Rennes, 75006 Paris": {
+    "lat": 48.8465035,
+    "lng": 2.3262195
+  },
+  "48 Rue Linois, 75015 Paris": {
+    "lat": 48.84720429999999,
+    "lng": 2.2845682
+  },
+  "24 Avenue du Général Leclerc, 75014 Paris": {
+    "lat": 48.8320406,
+    "lng": 2.3301939
+  },
+  "365 Rue de Vaugirard, 75015 Paris": {
+    "lat": 48.8364757,
+    "lng": 2.2952418
+  },
+  "Centre commercial Le Millénaire, 17 Rue de la Gare, 93300 Aubervilliers": {
+    "lat": 48.903473,
+    "lng": 2.3756262
+  },
+  "26 Avenue du Général de Gaulle, 93170 Bagnolet": {
+    "lat": 48.8653497,
+    "lng": 2.4161795
+  },
+  "2 Place de l'Europe, 94220 Charenton-le-Pont": {
+    "lat": 48.8257573,
+    "lng": 2.3933218
+  },
+  "60 Avenue du Général Leclerc, 92100 Boulogne-Billancourt": {
+    "lat": 48.83208399999999,
+    "lng": 2.2379409
+  },
+  "1 Rue d'Alsace, 92300 Levallois-Perret": {
+    "lat": 48.8926787,
+    "lng": 2.2977921
+  },
+  "30 Boulevard Paul Vaillant Couturier, 94200 Ivry-sur-Seine": {
+    "lat": 48.8188482,
+    "lng": 2.3963933
+  },
+  "77 Avenue de Fontainebleau, 94270 Le Kremlin-Bicêtre": {
+    "lat": 48.8113803,
+    "lng": 2.3622403
+  },
+  "20 Rue Berger, 75001 Paris": {
+    "lat": 48.8610723,
+    "lng": 2.3479404
+  },
+  "9 Rue de la Mare À Guillaume, 94120 Fontenay-sous-Bois": {
+    "lat": 48.8542588,
+    "lng": 2.4847638
+  },
+  "Centre Commercial La Vache Noire, 1 Cité de la Vache Noire, 94110 Arcueil": {
+    "lat": 48.8109974,
+    "lng": 2.3293536
+  },
+  "Centre Commercial Qwartz,
+  20 Rue de la Bongarde, 92390 Villeneuve-la-Garenne": {
+    "lat": 48.9257632,
+    "lng": 2.3288441
+  },
+  "La Défense 4 Temps - La rotonde des miroirs,
+  Niveau, 15 Voie des Douces, 92800 Puteaux": {
+    "lat": 48.8905608,
+    "lng": 2.236842
+  },
+  "67 Avenue de Stalingrad, 94800 Villejuif": {
+    "lat": 48.7827905,
+    "lng": 2.367801
+  },
+  "Centre commercial CARREFOUR,
+  21-23 Rue Louis Calmel, 92230 Gennevilliers": {
+    "lat": 48.9254008,
+    "lng": 2.2917645
+  },
+  "60 Rue Saint-Stenay, 93700 Drancy": {
+    "lat": 48.9190675,
+    "lng": 2.4222845
+  },
+  "Le Haut de Galy, 93600 Aulnay-sous-Bois": {
+    "lat": 48.956284,
+    "lng": 2.4755504
+  },
+  "51 Avenue Willy Brandt, 59000 Lille": {
+    "lat": 50.6368959,
+    "lng": 3.0749223
+  },
+  "52 Rue de Béthune, 59800 Lille": {
+    "lat": 50.6335748,
+    "lng": 3.0630066
+  },
+  "130 Rue du Grand But Lomme, 59160 Lille": {
+    "lat": 50.651101,
+    "lng": 2.9770261
+  },
+  "46 Avenue de l'Avenir, 59650 Villeneuve-d'Ascq": {
+    "lat": 50.6178391,
+    "lng": 3.1295469
+  },
+  "Centre commercial Auchan, Route Nationale 352, 59320 Englos": {
+    "lat": 50.6304289,
+    "lng": 2.9689676
+  },
+  "Route de Vendeville, 59155 Faches-Thumesnil": {
+    "lat": 50.5823322,
+    "lng": 3.0815144
+  },
+  "31 Rue Grenette, 69002 Lyon": {
+    "lat": 45.7635136,
+    "lng": 4.834887699999999
+  },
+  "17 Rue du Dr Bouchut, 69003 Lyon": {
+    "lat": 45.7615627,
+    "lng": 4.8559906
+  },
+  "Zone d'aménagement concerté Champ du Pont, 69800 Saint-Priest": {
+    "lat": 45.7218875,
+    "lng": 4.9261081
+  },
+  "Centre Commercial Ecully Grand Ouest,
+  Chemin Jean-Marie Vianney, 69130 Écully": {
+    "lat": 45.788004,
+    "lng": 4.775645
+  },
+  "101 Route de Vourles, 69230 Saint-Genis-Laval": {
+    "lat": 45.6798867,
+    "lng": 4.7906743
+  },
+  "24 Place des Halles, 67000 Strasbourg": {
+    "lat": 48.5867431,
+    "lng": 7.741776
+  },
+  "Centre commercial AUCHAN HAUTEPIERRE,
+  11 Place André Maurois, 67200 Strasbourg": {
+    "lat": 48.5914312,
+    "lng": 7.694599
+  },
+  "Centre Commercial Auchan,
+  6 Route de Strasbourg, 67400 Illkirch-Graffenstaden": {
+    "lat": 48.5434637,
+    "lng": 7.739896599999999
+  },
+  "4 Rue du Fort, 67118 Geispolsheim": {
+    "lat": 48.5234806,
+    "lng": 7.693294799999999
+  },
+  "50 Rue Jean Jaurès, 29200 Brest": {
+    "lat": 48.3931927,
+    "lng": -4.4830998
+  },
+  "1 Rue Madeleine Lagadec, 29200 Brest": {
+    "lat": 48.427751,
+    "lng": -4.4681444
+  },
+  "126 Boulevard de Plymouth, 29200 Brest": {
+    "lat": 48.3887765,
+    "lng": -4.5256627
+  },
+  "24 Rue de Siam, 29200 Brest": {
+    "lat": 48.3859293,
+    "lng": -4.4920824
+  },
+  "20 Rue Maréchal Joffre, 35000 Rennes": {
+    "lat": 48.1080688,
+    "lng": -1.6779926
+  },
+  "Centre commercial Colombia, 40 Place du Colombier, 35000 Rennes": {
+    "lat": 48.1055819,
+    "lng": -1.680845
+  },
+  "1 Avenue du Canada, 35200 Rennes": {
+    "lat": 48.0827981,
+    "lng": -1.6788154
+  },
+  "Centre Commercial Grand Quartier, 35760 Saint-Grégoire": {
+    "lat": 48.1373213,
+    "lng": -1.6959607
+  },
+  "Zone d'Activité la Rigourdière, 35510 Cesson-Sévigné": {
+    "lat": 48.1124442,
+    "lng": -1.5903719
+  },
+  "Centre commercial Auchan, 57 Boulevard Romain Rolland, 13010 Marseille": {
+    "lat": 43.279128,
+    "lng": 5.424555499999999
+  },
+  "Centre Commercial le Merlan, Avenue Prosper Mérimée, 13014 Marseille": {
+    "lat": 43.330486,
+    "lng": 5.3995793
+  },
+  "Centre commercial GRAND LITTORAL,
+  11 Avenue Saint Antonie, 13015 Marseille": {
+    "lat": 43.3641932,
+    "lng": 5.350467300000001
+  },
+  "30 Traverse de la Montre, 13011 Marseille": {
+    "lat": 43.294072,
+    "lng": 5.4780411
+  },
+  "Centre Commercial Géant La Valentine,
+  Route de la Sablière, 13011 Marseille": {
+    "lat": 43.2911745,
+    "lng": 5.4779347
+  },
+  "Centre commercial BONNEVEINE, 112 Avenue de Hambourg, 13008 Marseille": {
+    "lat": 43.2490223,
+    "lng": 5.389151099999999
+  },
+  "Centre Commercial Les Terrasses du Port,
+  9 Quai du Lazaret, 13002 Marseille": {
+    "lat": 43.3059559,
+    "lng": 5.3643299
+  },
+  "44 Cours Belsunce, 13001 Marseille": {
+    "lat": 43.2978978,
+    "lng": 5.3757926
+  },
+  "Avenue du Plan de Campagne, 13480 Cabriès": {
+    "lat": 43.4193292,
+    "lng": 5.3604166
+  },
+  "1 Square Narvik, 13001 Marseille": {
+    "lat": 43.3034973,
+    "lng": 5.3797687
+  },
+  "29 Boulevard François Suarez, 06340 La Trinité": {
+    "lat": 43.7425875,
+    "lng": 7.317756799999999
+  },
+  "Ccial Nice TNL 15 bd Gén Louis Delfino, 06300 Nice": {
+    "lat": 43.7057409,
+    "lng": 7.285298800000001
+  },
+  "36 Route de Bayonne, 31000 Toulouse": {
+    "lat": 43.6097511,
+    "lng": 1.3931387
+  },
+  "24 Rue des Changes, 31000 Toulouse": {
+    "lat": 43.6012316,
+    "lng": 1.4437711
+  },
+  "92 Chemin de Gabardie, 31200 Toulouse": {
+    "lat": 43.6314534,
+    "lng": 1.4850868
+  },
+  "Boulevard de l'Europe, 31127 Portet-sur-Garonne": {
+    "lat": 43.53189,
+    "lng": 1.4036688
+  },
+  "5 Allée des Champs Pinsons, 31650 Saint-Orens-de-Gameville": {
+    "lat": 43.565991,
+    "lng": 1.5177043
+  },
+  "Leclerc shopping center, 3 Allée de Fraixinet, 31120 Roques": {
+    "lat": 43.5126864,
+    "lng": 1.370189
+  },
+  "2 Allée Emile Zola, 31700 Blagnac": {
+    "lat": 43.6451344,
+    "lng": 1.3724506
+  },
+  "Centre commercial LECLERC, 88 Route D'albi Rn, 31180 Rouffiac-Tolosan": {
+    "lat": 43.6668139,
+    "lng": 1.5150289
+  },
+  "17 Place d'Occitanie, 31770 Colomiers": {
+    "lat": 43.610592,
+    "lng": 1.333685
+  },
+  "Centre Cial Geant Casino, 19 Rue des Usines, 31150 Fenouillet": {
+    "lat": 43.688997,
+    "lng": 1.4013633
+  },
+  "Centre Commercial Carrefour Labège, 700 La Pyrénéenne, 31670 Labège": {
+    "lat": 43.5505586,
+    "lng": 1.507417
+  },
+  "Centre Commercial Mayol, Rue des muriers, 83000 Toulon": {
+    "lat": 43.119977,
+    "lng": 5.9370992
+  },
+  "Centre Commercial Carrefour Grand Var, RN 98, 83160 La Valette-du-Var": {
+    "lat": 43.1415348,
+    "lng": 6.0164433
+  },
+  "Centre Commercial Auchan Bordeaux Lac,
+  40 Avenue des Journaux, 33300 Bordeaux": {
+    "lat": 44.87931560000001,
+    "lng": -0.564995
+  },
+  "12 Rue des Trois-Conils, 33000 Bordeaux": {
+    "lat": 44.838708,
+    "lng": -0.5751179
+  },
+  "CCAL AUCHAN BORDEAUX BOULIAC, Bonneau, 33270 Bouliac": {
+    "lat": 44.8169961,
+    "lng": -0.5269581999999999
+  },
+  "Rue du Château d'Eau, 33000 Bordeaux": {
+    "lat": 44.838496,
+    "lng": -0.584519
+  },
+  "Centre Cial Mérignac Soleil, Route du Cap Ferret, 33700 Mérignac": {
+    "lat": 44.8293204,
+    "lng": -0.6553139
+  },
+  "26 Avenue de l'Aquitaine, 33560 Sainte-Eulalie": {
+    "lat": 44.90607259999999,
+    "lng": -0.490056
+  },
+  "Centre Commercial Beaulieu, Rue Gaëtan Rondeau, 44272 Nantes": {
+    "lat": 47.2051919,
+    "lng": -1.5364156
+  },
+  "6 Place du Commerce, 44000 Nantes": {
+    "lat": 47.2137791,
+    "lng": -1.5578073
+  },
+  "1 Rue Ordronneau, 44400 Rezé": {
+    "lat": 47.1937123,
+    "lng": -1.5738916
+  },
+  "8 Avenue des Thébaudières, 44800 Saint-Herblain": {
+    "lat": 47.244902,
+    "lng": -1.6074857
+  },
+  "Boulevard Salvador Allende, 44811 Saint-Herblain": {
+    "lat": 47.2245709,
+    "lng": -1.6314969
+  },
+  "280 Avenue Gabriel Péri, 78360 Montesson": {
+    "lat": 48.9289127,
+    "lng": 2.1453701
+  },
+  "3 Rue de la Horionne, 95118 Sannois": {
+    "lat": 48.9646966,
+    "lng": 2.2559338
+  },
+  "Avenue Robert Schuman, 78500 Sartrouville": {
+    "lat": 48.9463374,
+    "lng": 2.1958847
+  },
+  "Avenue Charles de Gaulle, 78150 Le Chesnay": {
+    "lat": 48.8278223,
+    "lng": 2.1165306
+  },
+  "Centre Commercial du Pavé de Montigny,
+  66 Boulevard Victor Bordier, 95370 Montigny-lès-Cormeilles": {
+    "lat": 48.9947501,
+    "lng": 2.1979005
+  },
+  "1 Rue Théroigne de Méricourt, 95150 Taverny": {
+    "lat": 49.0146475,
+    "lng": 2.2204154
+  },
+  "Route Nationale 113, 13127 Vitrolles": {
+    "lat": 43.4336887,
+    "lng": 5.258839099999999
+  },
+  "Chemin des Paluds, 13400 Aubagne": {
+    "lat": 43.2943839,
+    "lng": 5.5908509
+  },
+  "55 Chemin de la Bouyère, 83190 Ollioules": {
+    "lat": 43.12255,
+    "lng": 5.877066399999999
+  },
+  "Centre Commercial Cora Opéra - ZAC de la Giraudais, 35740 Pacé": {
+    "lat": 48.1376506,
+    "lng": -1.767215
+  },
+  "Centre commercial Saint Jacques, 57000 Metz": {
+    "lat": 49.1179691,
+    "lng": 6.177211199999999
+  },
+  "Centre Commercial CORA, 10D Boulevard Solidarité, 57070 Metz": {
+    "lat": 49.1059205,
+    "lng": 6.2275689
+  },
+  "2 Rue des Messageries, 57000 Metz": {
+    "lat": 49.1063418,
+    "lng": 6.1825052
+  },
+  "Centre Commercial Cora - Zone Actisud, 57160 Moulins-lès-Metz": {
+    "lat": 49.0849285,
+    "lng": 6.1098284
+  },
+  "57280 Semécourt": {
+    "lat": 49.1945048,
+    "lng": 6.1468696
+  },
+  "35 Avenue Jean Médecin, 06000 Nice": {
+    "lat": 43.702883,
+    "lng": 7.266407
+  },
+  "606 Bd du Mercantour, 06200 Nice": {
+    "lat": 43.72994670000001,
+    "lng": 7.188308999999999
+  },
+  "Avenue Eugène Donadeï, 06700 Saint-Laurent-du-Var": {
+    "lat": 43.6592595,
+    "lng": 7.1976544
+  },
+  "9-11 Rue Hoche, 06400 Cannes": {
+    "lat": 43.5531774,
+    "lng": 7.0196321
+  },
+  "15 Rue de l'Étape, 51100 Reims": {
+    "lat": 49.255384,
+    "lng": 4.0283559
+  },
+  "Centre commercial Cora, Route de Louvois, 51350 Cormontreuil": {
+    "lat": 49.2149025,
+    "lng": 4.0526355
+  },
+  "CC E.Leclerc, La Croix Maurencienne, 51370 Saint-Brice-Courcelles": {
+    "lat": 49.2833973,
+    "lng": 4.0013022
+  },
+  "31 Route de Soissons, 51430 Tinqueux": {
+    "lat": 49.2548764,
+    "lng": 3.9789132
+  },
+  "110 Avenue du Grand Hameau, 76620 Le Havre": {
+    "lat": 49.5219011,
+    "lng": 0.111117
+  },
+  "Centre Commercial Dock Vauban, Quai Frissard, 76600 Le Havre": {
+    "lat": 49.49001939999999,
+    "lng": 0.1293684
+  },
+  "La Lézarde, [no name], 76290 Montivilliers": {
+    "lat": 49.5266305,
+    "lng": 0.1902734
+  },
+  "Avenue du Camp Dolent, 76700 Gonfreville-l'Orcher": {
+    "lat": 49.50657770000001,
+    "lng": 0.2241791
+  },
+  "Centre Commercial Centre Deux,
+  12 Rue Alexandre Pourcel, 42100 Saint-Étienne": {
+    "lat": 45.422898,
+    "lng": 4.3947271
+  },
+  "Centre Commercial Géant, Quartier de Monthieu, 42000 Saint-Étienne": {
+    "lat": 45.4408983,
+    "lng": 4.4218267
+  },
+  "Centre Commercial Leclerc, Rond-Point de la Guignardière, 45430 Chécy": {
+    "lat": 47.9052631,
+    "lng": 2.0388654
+  },
+  "Commercial Carrefour Place d'Arc, 2 Rue Nicolas Copernic, 45000 Orléans": {
+    "lat": 47.9077223,
+    "lng": 1.9052663
+  },
+  "2601 Route Nationale 20, 45770 Saran": {
+    "lat": 47.9608293,
+    "lng": 1.8868166
+  },
+  "Centre Cial Ccial Auchan, 16100 Châteaubernard": {
+    "lat": 45.6837245,
+    "lng": -0.3059421
+  },
+  "110 Avenue Joël Pilon, 12740 Sébazac-Concourès": {
+    "lat": 44.3935453,
+    "lng": 2.6035299
+  },
+  "51 Boulevard du Maréchal de Lattre de Tassigny, 49400 Saumur": {
+    "lat": 47.2617726,
+    "lng": -0.09127729999999999
+  },
+  "Centre Commercial Osny Nord, 95520 Osny": {
+    "lat": 49.0769303,
+    "lng": 2.0781604
+  },
+  "Centre Commercial Leclerc, Rives de Dordogne, 24100 Bergerac": {
+    "lat": 44.8367607,
+    "lng": 0.445515
+  },
+  "777 Avenue Jean Moulin, 82000 Montauban": {
+    "lat": 44.0308746,
+    "lng": 1.3696108
+  },
+  "Route de Paris, 77190 Villiers-en-Bière": {
+    "lat": 48.5005167,
+    "lng": 2.5839255
+  },
+  "75 Avenue Montaigne, 49100 Angers": {
+    "lat": 47.4672474,
+    "lng": -0.5245402
+  },
+  "Route Nationale 6, 77240 Cesson": {
+    "lat": 48.5877059,
+    "lng": 2.6001696
+  },
+  "18 Rue du Chemin de Briis, 91140 Villebon-sur-Yvette": {
+    "lat": 48.7055735,
+    "lng": 2.2530944
+  },
+  "180 N7, 91200 Athis-Mons": {
+    "lat": 48.7123026,
+    "lng": 2.3727014
+  },
+  "Centre Commercial AUCHAN, Avenue du Mans, 72650 La Chapelle-Saint-Aubin": {
+    "lat": 48.0447101,
+    "lng": 0.1729482
+  },
+  "2 Avenue de Romans, 26000 Valence": {
+    "lat": 44.94140429999999,
+    "lng": 4.919461999999999
+  },
+  "1449 Avenue de la République, 07500 Guilherand-Granges": {
+    "lat": 44.9380295,
+    "lng": 4.8656897
+  },
+  "3 Galerie Marchande Auchan, 59494 Petite-Forêt": {
+    "lat": 50.3769004,
+    "lng": 3.4779911
+  },
+  "7 Place d'Armes, 59300 Valenciennes": {
+    "lat": 50.3570218,
+    "lng": 3.524034
+  },
+  "59290 Wasquehal": {
+    "lat": 50.6808801,
+    "lng": 3.1240643
+  },
+  "1 Avenue de l'Europe, 59115 Leers": {
+    "lat": 50.6812656,
+    "lng": 3.2199588
+  },
+  "39 Rue Saint-Jacques, 59500 Douai": {
+    "lat": 50.37063870000001,
+    "lng": 3.0833408
+  },
+  "Espace Commercial Saint-Christophe,
+  2 Passage Alfred Mongy, 59200 Tourcoing": {
+    "lat": 50.720589,
+    "lng": 3.1600662
+  },
+  "Boulevard d'Halluin, 59223 Roncq": {
+    "lat": 50.7388006,
+    "lng": 3.1365227
+  },
+  "300 Rue Notre Dame, 59190 Hazebrouck": {
+    "lat": 50.739253,
+    "lng": 2.5459171
+  },
+  "Rue de l'Espérance, 59720 Louvroil": {
+    "lat": 50.25656550000001,
+    "lng": 3.9369827
+  },
+  "Rue Théophile Legrand, 59610 Fourmies": {
+    "lat": 50.02668329999999,
+    "lng": 4.029723199999999
+  },
+  "2 Avenue Georges Nuttin, 59400 Cambrai": {
+    "lat": 50.1480713,
+    "lng": 3.2221149
+  },
+  "Auchan, 59223 Roncq": {
+    "lat": 50.754188,
+    "lng": 3.12069
+  },
+  "19 Boulevard Sainte-Barbe, 59140 Dunkerque": {
+    "lat": 51.0346323,
+    "lng": 2.3796385
+  },
+  "Centre Cial Auchan Grand Synthe,
+  Rue de l'Ancienne Route Nationale 40, 59760 Grand Synthe": {
+    "lat": 51.0058107,
+    "lng": 2.2782543
+  },
+  "210 Avenue de Bredasque, 13090 Aix-en-Provence": {
+    "lat": 43.5334514,
+    "lng": 5.418584699999999
+  },
+  "17 Avenue du Maréchal Juin, 13200 Arles": {
+    "lat": 43.6658492,
+    "lng": 4.6388716
+  },
+  "533 Avenue Louis Braille, 84130 Le Pontet": {
+    "lat": 43.9820986,
+    "lng": 4.8804896
+  },
+  "Boulevard Paul Eluard, 13500 Martigues": {
+    "lat": 43.42193320000001,
+    "lng": 5.0535057
+  },
+  "Centre Commercial Mistral 7, 1741 Route de Marseille, 84140 Montfavet": {
+    "lat": 43.9218961,
+    "lng": 4.8646099
+  },
+  "175 Allée de Craponne, 13300 Salon-de-Provence": {
+    "lat": 43.6361461,
+    "lng": 5.099920099999999
+  },
+  "1175 Rue Guillaume du Vair, 13290 Les Milles": {
+    "lat": 43.5056549,
+    "lng": 5.397205599999999
+  },
+  "Les Allées Provincales, Allée Giuseppe Verdi, 13100 Aix-en-Provence": {
+    "lat": 43.5266127,
+    "lng": 5.442136199999999
+  },
+  "Centre Commercial Grand Angle, 1 Route De Tavel, 30133 Les Angles": {
+    "lat": 43.9607783,
+    "lng": 4.7471668
+  },
+  "495 Route de Nîmes, 30300 Beaucaire": {
+    "lat": 43.8166655,
+    "lng": 4.6133221
+  },
+  "4 Rue du Vieux Sextier, 84000 Avignon": {
+    "lat": 43.9481781,
+    "lng": 4.807602699999999
+  },
+  "5 Rue de la Paix, 69700 Givors": {
+    "lat": 45.58375849999999,
+    "lng": 4.7522338
+  },
+  "CENTRE COMMERCIAL CARREFOUR, ZAC DE ST HUBERT, 38080 L'Isle-d'Abeau": {
+    "lat": 45.6127366,
+    "lng": 5.2250713
+  },
+  "Centre commercial GEANT CASINO,
+  1153 Chemin des Rigons, 13170 Les Pennes-Mirabeau": {
+    "lat": 43.4149067,
+    "lng": 5.362555899999999
+  },
+  "130 Rue de Soultz, 68270 Wittenheim": {
+    "lat": 47.810407,
+    "lng": 7.314233700000001
+  },
+  "1 Boulevard de l'Europe, 68100 Mulhouse": {
+    "lat": 47.7502527,
+    "lng": 7.340597000000001
+  },
+  "14 Rue de Berne, 68110 Illzach": {
+    "lat": 47.7728936,
+    "lng": 7.3842521
+  },
+  "Centre commercial AUCHAN-ZI Zinsel, RN 62, 67590 Schweighouse-sur-Moder": {
+    "lat": 48.8327592,
+    "lng": 7.741885199999999
+  },
+  "5 Rue Vauban, 68000 Colmar": {
+    "lat": 48.0781292,
+    "lng": 7.360928799999999
+  },
+  "Centre commercial CORA, Rue du Buhlfeld, 68019 Houssen": {
+    "lat": 48.1271444,
+    "lng": 7.3695898
+  },
+  "Centre Commercial Cora, 900 Route Nationale 63, 67450 Mundolsheim": {
+    "lat": 48.6531221,
+    "lng": 7.7254744
+  },
+  "Centre commercial auchan, Lieu-dit Blozier, 90160 Bessoncourt": {
+    "lat": 47.6406466,
+    "lng": 6.9151472
+  },
+  "Boulevard Gaston Ramon, 49000 Angers": {
+    "lat": 47.48859179999999,
+    "lng": -0.5412511999999999
+  },
+  "Allée du Grand Launay, 49000 Angers": {
+    "lat": 47.4682389,
+    "lng": -0.5963157
+  },
+  "Centre Commercial E.Leclerc du Bréau,
+  Avenue 8 Mai 1945, 77130 Varennes-sur-Seine": {
+    "lat": 48.3639983,
+    "lng": 2.9507646
+  },
+  "5 Route Renault, 78410 Flins-sur-Seine": {
+    "lat": 48.9660368,
+    "lng": 1.8631123
+  },
+  "8 Rue de la Longueraie, 91270 Vigneux-sur-Seine": {
+    "lat": 48.7153213,
+    "lng": 2.4378719
+  },
+  "85 Route de Provins, 94430 Ormesson-sur-Marne": {
+    "lat": 48.7941601,
+    "lng": 2.5557545
+  },
+  "14 Cours du Danube, 77700 Serris": {
+    "lat": 48.8550856,
+    "lng": 2.7797994
+  },
+  "234 Boulevard du Mont d'Est, 93160 Noisy-le-Grand": {
+    "lat": 48.840073,
+    "lng": 2.5456227
+  },
+  "Centre Commercial Carrefour, 77410 Claye-Souilly": {
+    "lat": 48.9463235,
+    "lng": 2.6621208
+  },
+  "Avenue de la Marne, 56000 Vannes": {
+    "lat": 47.65908,
+    "lng": -2.7916896
+  },
+  "Route Nationale 4, 77340 Pontault-Combault": {
+    "lat": 48.7771329,
+    "lng": 2.6078827
+  },
+  "Centre Commercial Bay 2, 63 Rue du Général de Gaulle, 77616 Collégien": {
+    "lat": 48.8370834,
+    "lng": 2.66203
+  },
+  "3 Allée du Préambule, 77127 Lieusaint": {
+    "lat": 48.6141462,
+    "lng": 2.5478446
+  },
+  "34 Avenue Gendarme Castermant, 77500 Chelles": {
+    "lat": 48.8772518,
+    "lng": 2.6139996
+  },
+  "Centre Commercial E.Leclerc, 16 Avenue de la Voulzie, 77160 Provins": {
+    "lat": 48.54710120000001,
+    "lng": 3.290636
+  },
+  "4 Boulevard de l'Ouest, 10600 La Chapelle-Saint-Luc": {
+    "lat": 48.3059465,
+    "lng": 4.0240429
+  },
+  "Avenue Général de Gaulle, 10410 Saint-Parres-aux-Tertres": {
+    "lat": 48.2978825,
+    "lng": 4.1308125
+  },
+  "Centre Commercial carrefour Rives d'arcins, 33130 Bègles": {
+    "lat": 44.7949569,
+    "lng": -0.530227
+  },
+  "Centre Commercial Les saisons de Meaux,
+  3 Avenue Roland Moreno, 77124 Chauconin-Neufmontiers": {
+    "lat": 48.958554,
+    "lng": 2.860476
+  },
+  "La Toison d'or, Grand Mail, Local 67, 21000 Dijon": {
+    "lat": 47.35681839999999,
+    "lng": 5.0516735
+  },
+  "Chemin de Montravel, 42390 Villars": {
+    "lat": 45.474229,
+    "lng": 4.3435902
+  },
+  "19 Cours de la République, 42300 Roanne": {
+    "lat": 46.0377416,
+    "lng": 4.0643665
+  },
+  "Avenue de Provence, 26000 Valence": {
+    "lat": 44.9070419,
+    "lng": 4.8786687
+  },
+  "Géant shopping center Auxerre, 1 Avenue Haussmann, 89000 Auxerre": {
+    "lat": 47.8168023,
+    "lng": 3.5714012
+  },
+  "134 Avenue de Genève, 74000 Annecy": {
+    "lat": 45.9245182,
+    "lng": 6.1241265
+  },
+  "59 Grande Rue, 71100 Chalon-sur-Saône": {
+    "lat": 46.78320040000001,
+    "lng": 4.855479799999999
+  },
+  "Centre commercial Cap Emeraude,
+  1380 Boulevard des Crêtes du Revermont, 01000 Bourg-en-Bresse": {
+    "lat": 46.22069459999999,
+    "lng": 5.2416789
+  },
+  "309 Avenue Georges Durand, 72100 Le Mans": {
+    "lat": 47.9725779,
+    "lng": 0.2173281
+  },
+  "Centre commercial AUCHAN, 31 Rue des Fonderies, 33380 Biganos": {
+    "lat": 44.6384884,
+    "lng": -0.9600850000000001
+  },
+  "Centre des Océanides, Centre Commercial E.Leclerc,
+  371 Avenue du Parc des Expositions, 33260 La Teste-de-Buch": {
+    "lat": 44.6138254,
+    "lng": -1.116205
+  },
+  "1020 Avenue Roger Salengro, 62100 Calais": {
+    "lat": 50.9445203,
+    "lng": 1.8085707
+  },
+  "Centre Commercial Saint Quentin,
+  5 Place Colbert, 78067 Montigny-le-Bretonneux": {
+    "lat": 48.7845301,
+    "lng": 2.0440494
+  },
+  "10 Rue Colbert, 78180 Montigny-le-Bretonneux": {
+    "lat": 48.7824444,
+    "lng": 2.0437355
+  },
+  "Route de Villoison, 91100 Villabé": {
+    "lat": 48.584374,
+    "lng": 2.448261
+  },
+  "Centre Commercial Beau Sevran, Route des Petits Ponts, 93270 Sevran": {
+    "lat": 48.9494909,
+    "lng": 2.5263137
+  },
+  "5 Boulevard de l'Europe, 91022 Évry": {
+    "lat": 48.6288579,
+    "lng": 2.4264903
+  },
+  "59 Avenue du Général de Gaulle, 93110 Rosny-sous-Bois": {
+    "lat": 48.8782714,
+    "lng": 2.4790428
+  },
+  "200 Avenue de la Division Leclerc, 95200 Sarcelles": {
+    "lat": 48.9863051,
+    "lng": 2.3730758
+  },
+  "Centre commercial CARREFOUR, 2 Rue Marie Liétard, 62802 Liévin": {
+    "lat": 50.420617,
+    "lng": 2.771089
+  },
+  "Centre commercial AUCHAN, 62950 Noyelles-Godault": {
+    "lat": 50.4112077,
+    "lng": 2.9756981
+  },
+  "Rue du Dr Dhenin, 62400 Béthune": {
+    "lat": 50.52487929999999,
+    "lng": 2.6304502
+  },
+  "6 Rue Claude Bernard, 62000 Arras": {
+    "lat": 50.3000564,
+    "lng": 2.7311561
+  },
+  "1115 Rue de la Libération, 62700 Bruay-la-Buissière": {
+    "lat": 50.4953148,
+    "lng": 2.5688253
+  },
+  "Centre Commercial Auchan Boulogne, RN 42, 62200 Saint-Martin-Boulogne": {
+    "lat": 50.7350037,
+    "lng": 1.6753102
+  },
+  "Centre Commercial Auchan, 2 Avenue des Frais Fonds, 62219 Longuenesse": {
+    "lat": 50.7358459,
+    "lng": 2.2709875
+  },
+  "940 Avenue de Verdun, 62600 Berck": {
+    "lat": 50.4049378,
+    "lng": 1.6002865
+  },
+  "Centre Commercial Lens, 47 Route de la Brassée, 62880 Vendin-le-Vieil": {
+    "lat": 50.4602705,
+    "lng": 2.8249634
+  },
+  "20 Rue Adolphe Thiers, 62200 Boulogne-sur-Mer": {
+    "lat": 50.7237039,
+    "lng": 1.6058949
+  },
+  "1001 Boulevard du Kent, 62100 Coquelles": {
+    "lat": 50.9349943,
+    "lng": 1.8090909
+  },
+  "Rue du Luxembourg, 94320 Thiais": {
+    "lat": 48.7593814,
+    "lng": 2.3721014
+  },
+  "Centre commercial Cora Massy, Avenue de l'Europe, 91300 Massy": {
+    "lat": 48.7252209,
+    "lng": 2.2773203
+  },
+  "4 Avenue de la Madone, 98000 Monaco": {
+    "lat": 43.740935,
+    "lng": 7.4279339
+  },
+  "6 Rue Massey, 65000 Tarbes": {
+    "lat": 43.2341741,
+    "lng": 0.0737019
+  },
+  "5 Chemin de la Croix Saint-Jacques, 91620 La ville-du-Bois": {
+    "lat": 48.6684472,
+    "lng": 2.2762076
+  },
+  "7-9 Rue Coursarlon, 18000 Bourges": {
+    "lat": 47.084587,
+    "lng": 2.3958822
+  },
+  "5 Avenue Colonel Teyssier, 81000 Albi": {
+    "lat": 43.9250912,
+    "lng": 2.1505687
+  },
+  "18 Rue Jean-Jacques Rousseau, 38000 Grenoble": {
+    "lat": 45.19162439999999,
+    "lng": 5.7284133
+  },
+  "9 Grande Rue, 25000 Besançon": {
+    "lat": 47.2393103,
+    "lng": 6.0215934
+  },
+  "1 Avenue du Président Vincent Auriol, 80100 Abbeville": {
+    "lat": 50.0987808,
+    "lng": 1.8590538
+  },
+  "108 Boulevard de la République, 47000 Agen": {
+    "lat": 44.2053266,
+    "lng": 0.6222082
+  },
+  "1303 Route de Draguignan, 83720 Trans-en-Provence": {
+    "lat": 43.5100086,
+    "lng": 6.4790497
+  },
+  "Centre Commercial Géant Casino, Zone du Chiriac, 73200 Albertville": {
+    "lat": 45.6560868,
+    "lng": 6.3669113
+  },
+  "5 Allée du Château, 81000 Albi": {
+    "lat": 43.9200375,
+    "lng": 2.110287
+  },
+  "Centre Commercial Carrefour Alençon, 61250 Condé-sur-Sarthe": {
+    "lat": 48.4322493,
+    "lng": 0.0610592
+  },
+  "Centre Commercial Auchan Amiens Sud, Route d'Amiens, 80480 Dury": {
+    "lat": 49.8631503,
+    "lng": 2.2788684
+  },
+  "Centre Commercial BAB2, 6 Avenue Jean Léon Laporte, 64601 Anglet": {
+    "lat": 43.4874447,
+    "lng": -1.4988387
+  },
+  "Centre commercial Carrefour Antibes,
+  Chemin de Saint-Claude, 06600 Antibes": {
+    "lat": 43.6032215,
+    "lng": 7.087545899999999
+  },
+  "Zac de Montimaran, 34500 Béziers": {
+    "lat": 43.3414515,
+    "lng": 3.2612911
+  },
+  "4 Avenue de la Voie Domitienne, 34500 Béziers": {
+    "lat": 43.3454256,
+    "lng": 3.2429737
+  },
+  "Rue de Dole, 25000 Besançon": {
+    "lat": 47.2154832,
+    "lng": 5.9476127
+  },
+  "2 Rue Paul Doumer, 14000 Caen": {
+    "lat": 49.18217629999999,
+    "lng": -0.3656069
+  },
+  "1 Boulevard Maréchal Juin, 14000 Caen": {
+    "lat": 49.2091836,
+    "lng": -0.3639403
+  },
+  "24 Rue Henri IV, 81100 Castres": {
+    "lat": 43.6062265,
+    "lng": 2.2409696
+  },
+  "9 Rue Henri Regnault, 81100 Castres": {
+    "lat": 43.5901339,
+    "lng": 2.1869419
+  },
+  "Centre Commercial Chalon sud, Rue Thomas Dumorey, 71100 Chalon-sur-Saône": {
+    "lat": 46.7744307,
+    "lng": 4.8613805
+  },
+  "Centre commercial CHAMNORD, 1097 Avenue des Landiers, 73000 Chambéry": {
+    "lat": 45.5928741,
+    "lng": 5.899835899999999
+  },
+  "Centre commercial CARREFOUR, 31 Rue Centrale, 73000 Bassens": {
+    "lat": 45.5738219,
+    "lng": 5.943822099999999
+  },
+  "Centre Commercial promenades oceanes,
+  4 Avenue du Maréchal Juin, 85180 Le Château-d'Olonne": {
+    "lat": 46.4870357,
+    "lng": -1.7478002
+  },
+  "Le Long Buisson, 27930 Évreux": {
+    "lat": 49.0138025,
+    "lng": 1.1742456
+  },
+  "8 Boulevard de Normandie, 27000 Évreux": {
+    "lat": 49.0226242,
+    "lng": 1.1344457
+  },
+  "7 Rue Chaudrier, 17000 La Rochelle": {
+    "lat": 46.1604388,
+    "lng": -1.1536141
+  },
+  "Avenue du Maréchal de Lattre de Tassigny, 53000 Laval": {
+    "lat": 48.0799177,
+    "lng": -0.8017183000000001
+  },
+  "13 Rue Claude Blondeau, 72100 Le Mans": {
+    "lat": 48.0056549,
+    "lng": 0.1997283
+  },
+  "Centre commercial AUCHAN, 5 Rue de la Fontaine au Brun, 44570 Trignac": {
+    "lat": 47.3026833,
+    "lng": -2.2095988
+  },
+  "Route de Nantes, 85000 La Roche-sur-Yon": {
+    "lat": 46.7010915,
+    "lng": -1.4286046
+  },
+  "Centre Commercial Maison Neuve, 91220 Brétigny-sur-Orge": {
+    "lat": 48.5850403,
+    "lng": 2.3036695
+  },
+  "2 Avenue de l'Europe, 78140 Vélizy-Villacoublay": {
+    "lat": 48.7810776,
+    "lng": 2.2203335
+  },
+  "11 Avenue Jean Jaurès, 78390 Bois-d'Arcy": {
+    "lat": 48.7991216,
+    "lng": 2.0385571
+  },
+  "1 Centre Commercial du Mesnil Roux, 76360 Barentin": {
+    "lat": 49.5356658,
+    "lng": 0.9683069999999998
+  },
+  "2 Avenue Gustave Picard, 76410 Tourville-la-Rivière": {
+    "lat": 49.3299888,
+    "lng": 1.0969147
+  },
+  "20 Pl. de la Pucelle, 76000 Rouen": {
+    "lat": 49.4425172,
+    "lng": 1.0888207
+  },
+  "Rue François Perroux, 76130 Mont-Saint-Aignan": {
+    "lat": 49.4704355,
+    "lng": 1.094185
+  },
+  "76 Boulevard Ferdinand de Lesseps, 76000 Rouen": {
+    "lat": 49.4459096,
+    "lng": 1.0655349
+  },
+  "65 Avenue de Bretagne, 76100 Rouen": {
+    "lat": 49.4306726,
+    "lng": 1.0839775
+  },
+  "Centre Commercial Belvedere, Rue des Acadiens, 76200 Dieppe": {
+    "lat": 49.9091828,
+    "lng": 1.0802148
+  },
+  "76 Avenue Gabriel Péri, 38400 Saint-Martin-d'Hères": {
+    "lat": 45.1849955,
+    "lng": 5.759208
+  },
+  "1 Boulevard des Alpes, 38240 Meylan": {
+    "lat": 45.2031048,
+    "lng": 5.7637185
+  },
+  "Centre commercial Grand Place, 30Bis Grand Place, 38100 Grenoble": {
+    "lat": 45.15852779999999,
+    "lng": 5.7318896
+  },
+  "55 Grand Place, 38130 Échirolles": {
+    "lat": 45.1581081,
+    "lng": 5.727119099999999
+  },
+  "7 Place de la Grande Moucherolle, 38130 Échirolles": {
+    "lat": 45.1499136,
+    "lng": 5.693283699999999
+  },
+  "1 Rue des Abattoirs, 38120 Saint-Egrève": {
+    "lat": 45.2393886,
+    "lng": 5.6642129
+  },
+  "Centre commercial Art de Vivre, 1 Rue du Bas Noyer, 95610 Éragny": {
+    "lat": 49.0312524,
+    "lng": 2.103375600000001
+  },
+  "Route Nationale 1, 95570 Moisselles": {
+    "lat": 49.0407171,
+    "lng": 2.3420201
+  },
+  "1 Rue des Pertuisanes, 34000 Montpellier": {
+    "lat": 43.6087744,
+    "lng": 3.8840456
+  },
+  "34434 Route de Sète, 34430 Saint-Jean-de-Védas": {
+    "lat": 43.5722493,
+    "lng": 3.8476886
+  },
+  "Ctre plein S, 34470 Pérols": {
+    "lat": 43.57277089999999,
+    "lng": 3.9428675
+  },
+  "Avenue Georges Frêche, 34970 Lattes": {
+    "lat": 43.5828643,
+    "lng": 3.9275829
+  },
+  "Centre Commercial Balaruc, Route de Sète, 34540 Balaruc-le-Vieux": {
+    "lat": 43.4629226,
+    "lng": 3.6912966
+  },
+  "Route de Ganges, 34980 Saint-Clément-de-Rivière": {
+    "lat": 43.6491562,
+    "lng": 3.8421024
+  },
+  "158 Route de Cannes, 06130 Grasse": {
+    "lat": 43.635194,
+    "lng": 6.9508335
+  },
+  "Avenue du Ctre, 74330 Epagny": {
+    "lat": 45.9383195,
+    "lng": 6.075431099999999
+  },
+  "Avenue d'Aix-les-Bains, 74600 Seynod": {
+    "lat": 45.8757825,
+    "lng": 6.087578499999999
+  },
+  "Centre Cial Centre Commercial Carrefour,
+  Avenue Georges Clemenceau, 74300 Cluses": {
+    "lat": 46.0684881,
+    "lng": 6.5686645
+  },
+  "955 Route des Lucioles, 06901 Sophia Antipolis Ced": {
+    "lat": 43.6186825,
+    "lng": 7.0552896
+  },
+  "4 Rue du Maillet, 57100 Thionville": {
+    "lat": 49.3553858,
+    "lng": 6.1415277
+  },
+  "25 Rue des Ponts, 54000 Nancy": {
+    "lat": 48.6882882,
+    "lng": 6.1815812
+  },
+  "Avenue Jeanne d'Arc, 43750 Vals-prés-le-Puy": {
+    "lat": 45.0256599,
+    "lng": 3.8803045
+  },
+  "Centre commercial Océanis, Rond point de l'Europe,
+  85800 Saint-Gilles-Croix-de-Vie": {
+    "lat": 46.6984441,
+    "lng": -1.912238
+  },
+  "22 Rue de la Sapinière, 54520 Laxou": {
+    "lat": 48.6923655,
+    "lng": 6.1260175
+  },
+  "Centre Commercial Cora Saint Avold, Zone du Heckenvald,
+  RN3, 57500 Longeville-lès-Saint-Avold": {
+    "lat": 49.1110306,
+    "lng": 6.6941166
+  },
+  "Centre commercial CORA, Route nationale 57, 54180 Houdemont": {
+    "lat": 48.6397606,
+    "lng": 6.1853795
+  },
+  "148 Avenue St Albert, 83480 Puget-sur-Argens": {
+    "lat": 43.4435651,
+    "lng": 6.704209199999999
+  },
+  "11 Cour Saint-Emilion, 75012 Paris": {
+    "lat": 48.832702,
+    "lng": 2.3858457
+  },
+  "Centre commercial Aéroville, 30 Rue des Buissons,
+  95700 Roissy-en-France": {
+    "lat": 48.9923534,
+    "lng": 2.52165
+  },
+  "Centre Commercial Belle Epine, Avenue du Luxembourg, 94320 Thiais": {
+    "lat": 48.75684099999999,
+    "lng": 2.3713856
+  },
+  "100 Avenue Willy Brandt, 59777 Lille": {
+    "lat": 50.6369383,
+    "lng": 3.0748398
+  },
+  "163 Route de Bénodet, 29000 Quimper": {
+    "lat": 47.97546759999999,
+    "lng": -4.0947441
+  },
+  "10 Boulevard Omer Sarraut, 11000 Carcassonne": {
+    "lat": 43.2164746,
+    "lng": 2.3527415
+  },
+  "Centre Cial Rn 16 Ccial Cora, 60740 Saint-Maximin": {
+    "lat": 49.2345455,
+    "lng": 2.469713
+  },
+  "1 Avenue Descartes, 60000 Beauvais": {
+    "lat": 49.4101593,
+    "lng": 2.115477
+  },
+  "Centre Commercial Carrefour Venette, 6 Avenue de l'Europe, 60280 Venette": {
+    "lat": 49.4096026,
+    "lng": 2.7835203
+  },
+  "Grand Val, 2 Boulevard de Tilsit, 95290 L'Isle-Adam": {
+    "lat": 49.1259925,
+    "lng": 2.2453704
+  },
+  "Chemin des Hayettes, 95520 Osny": {
+    "lat": 49.06621120000001,
+    "lng": 2.0891684
+  },
+  "Centre Commercial Carrefour, Route d'Angers, 49300 Cholet": {
+    "lat": 47.076338,
+    "lng": -0.8424526999999999
+  },
+  "Route d'Hennebont, 56600 Lanester": {
+    "lat": 47.77638510000001,
+    "lng": -3.343996
+  },
+  "Centre Commercial KZ Lorient, 56100 Lorient": {
+    "lat": 47.7660558,
+    "lng": -3.3967213
+  },
+  "400 Avenue Claude Baillet, 30000 Nîmes": {
+    "lat": 43.8123982,
+    "lng": 4.3628761
+  },
+  "22 Boulevard Gambetta, 30000 Nîmes": {
+    "lat": 43.8398671,
+    "lng": 4.3583295
+  },
+  "1 Avenue de l'Europe, 54350 Mont-Saint-Martin": {
+    "lat": 49.5433196,
+    "lng": 5.7967507
+  },
+  "Rue du Tuilier, 54300 Moncel-lès-Lunéville": {
+    "lat": 48.577658,
+    "lng": 6.5212328
+  },
+  "Centre Commercial Mondeville 2, RN 13, 14120 Mondeville": {
+    "lat": 49.1658832,
+    "lng": -0.2934343
+  },
+  "307 Boulevard du Val, 14200 Hérouville-Saint-Clair": {
+    "lat": 49.206155,
+    "lng": -0.329303
+  },
+  "52 Rue Dorée, 45200 Montargis": {
+    "lat": 47.9965949,
+    "lng": 2.7327493
+  },
+  "9 Avenue du Général Leclerc, 64000 Pau": {
+    "lat": 43.3051685,
+    "lng": -0.333597
+  },
+  "56 Boulevard Jacques Duclos, 40220 Tarnos": {
+    "lat": 43.525061,
+    "lng": -1.4629388
+  },
+  "Centre Commercial Carrefour Lescar, Route de Bayonne, 64230 Lescar": {
+    "lat": 43.3156508,
+    "lng": -0.4276468
+  },
+  "Rue Philippe Lebon, 85000 La Roche-sur-Yon": {
+    "lat": 46.6976986,
+    "lng": -1.4330827
+  },
+  "66 Avenue du 11 Novembre 1918, 17300 Rochefort": {
+    "lat": 45.92501170000001,
+    "lng": -0.9584564
+  },
+  "15 Avenue Gambetta, 17100 Saintes": {
+    "lat": 45.7469638,
+    "lng": -0.6276168999999999
+  },
+  "Centre Commercial Carrefour Angoulins,
+  8 Chemin de la Velaine, 17690 Angoulins": {
+    "lat": 46.1114104,
+    "lng": -1.1048818
+  },
+  "D906, 71680 Crêches-sur-Saône": {
+    "lat": 46.2536121,
+    "lng": 4.792598
+  },
+  "Rue Romanette, 02000 Laon": {
+    "lat": 49.5478681,
+    "lng": 3.6147979
+  },
+  "23 Place de l'Hôtel de ville, 02100 Saint-Quentin": {
+    "lat": 49.8458379,
+    "lng": 3.2877945
+  },
+  "26 Rue des Bas Buissons, 28100 Dreux": {
+    "lat": 48.7497027,
+    "lng": 1.3455841
+  },
+  "1 Rue Jules Verne, 22360 Langueux": {
+    "lat": 48.49491,
+    "lng": -2.7261937
+  },
+  "Centre Commercial Croix Dampierre,
+  Avenue du Président Roosevelt, 51000 Châlons-en-Champagne": {
+    "lat": 48.9424445,
+    "lng": 4.3846741
+  },
+  "Route nationale, 51500 Champfleury": {
+    "lat": 49.2038034,
+    "lng": 4.0150079
+  },
+  "Route de Jonquières, 84100 Orange": {
+    "lat": 44.1209529,
+    "lng": 4.8396272
+  },
+  "47 Rue de Châtillon, 25480 École-Valentin": {
+    "lat": 47.2822095,
+    "lng": 5.9940538
+  },
+  "50470 La Glacerie": {
+    "lat": 49.6025134,
+    "lng": -1.6003563
+  },
+  "Centre Commercial Carrefour,
+  Quai de l'Entrepôt, 50100 Cherbourg-Octeville": {
+    "lat": 49.634772,
+    "lng": -1.6192817
+  },
+  "116 Rue Pierre Julien, 26200 Montélimar": {
+    "lat": 44.5596748,
+    "lng": 4.7514566
+  },
+  "2130 Avenue du Languedoc, 66000 Perpignan": {
+    "lat": 42.7406865,
+    "lng": 2.893402
+  },
+  "Route du Barcarès, 66530 Claira": {
+    "lat": 42.7762645,
+    "lng": 2.913395
+  },
+  "Centre commercial Porte D'Espagne, Avenue Espagne, 66000 Perpignan": {
+    "lat": 42.669366,
+    "lng": 2.8814644
+  },
+  "Centre Commercial Carrefour Perpignan,
+  Chemin de la Roseraie, 66000 Perpignan": {
+    "lat": 42.702668,
+    "lng": 2.9460992
+  },
+  "10 Rue du Bel air, 78120 Rambouillet": {
+    "lat": 48.6278561,
+    "lng": 1.8281035
+  },
+  "Centre Commercial Auchan, 78200 Buchelay": {
+    "lat": 48.9808663,
+    "lng": 1.6849094
+  },
+  "Avenue Johannes Gutenberg, 78310 Maurepas": {
+    "lat": 48.7628998,
+    "lng": 1.9174184
+  },
+  "Boulevard Oscar Niemeyer, 40280 Saint-Pierre-du-Mont": {
+    "lat": 43.8640819,
+    "lng": -0.4813486
+  },
+  "33 Rue du Saut le Cerf, 88000 Jeuxey": {
+    "lat": 48.1972399,
+    "lng": 6.479720899999999
+  },
+  "ZAC Bonne source, Boulevard de Cressel, 11100 Narbonne": {
+    "lat": 43.1775396,
+    "lng": 3.0296209
+  },
+  "Lieu-dit Chambertrand, Centre commercial Porte de Bourgogne, 89100 Sens": {
+    "lat": 48.1721867,
+    "lng": 3.2918109
+  },
+  "Centre commercial Géant Casino Oyonnax,
+  95, Rue du 19 Mars 1962, 01100 Arbent": {
+    "lat": 46.2830068,
+    "lng": 5.6636123
+  },
+  "Boulevard Kennedy, 70000 Vesoul": {
+    "lat": 47.6253215,
+    "lng": 6.1706425
+  },
+  "8 Avenue de Bourgogne, 21800 Quetigny": {
+    "lat": 47.3099061,
+    "lng": 5.102231199999999
+  },
+  "58 Rue de Longvic, 21300 Chenôve": {
+    "lat": 47.2824213,
+    "lng": 5.022183099999999
+  },
+  "2 Rue Pasteur, 55100 Verdun": {
+    "lat": 49.1594594,
+    "lng": 5.3842564
+  },
+  "2 Rue Paulin Richier, 08000 Charleville-Mézières": {
+    "lat": 49.7391637,
+    "lng": 4.7062915
+  },
+  "1 Rue de Longeville, 55000 Savonnières-devant-Bar": {
+    "lat": 48.759501,
+    "lng": 5.182677
+  },
+  "21 Rue de la République, 08000 Charleville-Mézières": {
+    "lat": 49.7726244,
+    "lng": 4.7206699
+  },
+  "5 Rue Saint-Rome, 31000 Toulouse": {
+    "lat": 43.6018935,
+    "lng": 1.4435028
+  },
+  "Lieu Dit, 32250 Montreal du Gers": {
+    "lat": 43.9500611,
+    "lng": 0.2111961
+  },
+  "10 Avenue de Paris, 20000 Ajaccio": {
+    "lat": 41.9184932,
+    "lng": 8.7353171
+  }
+}
